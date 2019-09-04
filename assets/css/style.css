@@ -1,0 +1,66 @@
+body {
+  font-family: 'PT Sans', sans-serif;
+
+}
+h1 {
+  font-family: 'Righteous', cursive;
+}
+header {
+  background: url(../img/header.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-shadow: 3px 2px #0F7D74;
+  background-attachment: fixed;
+  background-position: center;
+}
+header p {
+  font-size: 1.5em;
+}
+.iconsection h3 {
+  font-size: 3em;
+}
+
+hr {
+  border-top: 2px solid #a4a4a4;
+}
+.tono {
+  background-color: #0B7872;
+  color: #ffffff;
+  text-decoration: none;
+}
+.tono a {
+  color: #ffffff;
+}
+h2 {
+  font-family: 'Righteous', cursive;
+  color: #0F7D74;
+}
+.card-header {
+font-size: 1.5em;
+}
+.carousel-indicators {
+  bottom: 15px;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #000000;
+  text-align: center;
+}
+
+.modal-body i {
+  color: #0F7D74;
+}
+h3 {
+  font-family: 'Righteous', cursive;
+  color: #0F7D74;
+}
+.formulario {
+  background-color: da
+}
+.row i {
+  color: #a4a4a4;
+  item-align: center;
+}
