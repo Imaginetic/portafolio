@@ -6,7 +6,7 @@ h1 {
   font-family: 'Righteous', cursive;
 }
 header {
-  background: url(../img/header.png);
+  background: url(../img/header.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   text-shadow: 3px 2px #0F7D74;
@@ -60,4 +60,16 @@ h3 {
 .row i {
   color: #a4a4a4;
   item-align: center;
+}
+
+.backg {
+  background: url(../img/backg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-shadow: 3px 2px #0F7D74;
+  background-attachment: fixed;
+  background-position: center;
+  border-top: 5px solid #0F7D74;
+  border-bottom: 5px solid #0F7D74;
+  padding-top: 3rem;
 }
